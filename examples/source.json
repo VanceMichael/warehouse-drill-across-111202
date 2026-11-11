@@ -1,0 +1,34 @@
+{
+  "impressions": [
+    {
+      "event": "i1",
+      "day": "2026-10-01",
+      "campaign": "c1",
+      "channel": "web",
+      "viewer": "u1"
+    },
+    {
+      "event": "i2",
+      "day": "2026-10-01",
+      "campaign": "c1",
+      "channel": "app",
+      "viewer": "u1"
+    }
+  ],
+  "clicks": [
+    {
+      "event": "k1",
+      "day": "2026-10-01",
+      "campaign": "c1",
+      "viewer": "u1"
+    }
+  ],
+  "budgets": [
+    {
+      "budget_key": "b1",
+      "day": "2026-10-01",
+      "campaign": "c1",
+      "amount": "10.00"
+    }
+  ]
+}

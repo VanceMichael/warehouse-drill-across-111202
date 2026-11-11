@@ -1,0 +1,1 @@
+SCHEMA = {'impressions': 'event TEXT PRIMARY KEY, day TEXT NOT NULL, campaign TEXT NOT NULL, channel TEXT NOT NULL, viewer TEXT NOT NULL', 'clicks': 'event TEXT PRIMARY KEY, day TEXT NOT NULL, campaign TEXT NOT NULL, viewer TEXT NOT NULL', 'budgets': 'budget_key TEXT PRIMARY KEY, day TEXT NOT NULL, campaign TEXT NOT NULL, amount TEXT NOT NULL'}

@@ -1,0 +1,18 @@
+[
+  {
+    "source": "impressions",
+    "rows": 2
+  },
+  {
+    "source": "clicks",
+    "rows": 1
+  },
+  {
+    "source": "budgets",
+    "rows": 1
+  },
+  {
+    "source": "unique_viewers",
+    "rows": 1
+  }
+]
