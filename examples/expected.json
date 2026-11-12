@@ -1,18 +1,18 @@
 [
   {
     "source": "impressions",
-    "rows": 2
+    "rows": 9
   },
   {
     "source": "clicks",
-    "rows": 1
+    "rows": 5
   },
   {
     "source": "budgets",
-    "rows": 1
+    "rows": 4
   },
   {
     "source": "unique_viewers",
-    "rows": 1
+    "rows": 4
   }
 ]

@@ -1,34 +1,125 @@
 {
-  "impressions": [
-    {
-      "event": "i1",
-      "day": "2026-10-01",
-      "campaign": "c1",
-      "channel": "web",
-      "viewer": "u1"
-    },
-    {
-      "event": "i2",
-      "day": "2026-10-01",
-      "campaign": "c1",
-      "channel": "app",
-      "viewer": "u1"
-    }
-  ],
-  "clicks": [
-    {
-      "event": "k1",
-      "day": "2026-10-01",
-      "campaign": "c1",
-      "viewer": "u1"
-    }
-  ],
-  "budgets": [
-    {
-      "budget_key": "b1",
-      "day": "2026-10-01",
-      "campaign": "c1",
-      "amount": "10.00"
-    }
-  ]
+ "impressions": [
+  {
+   "event": "i1",
+   "day": "2026-10-01",
+   "campaign": "c1",
+   "channel": "web",
+   "viewer": "u1"
+  },
+  {
+   "event": "i2",
+   "day": "2026-10-01",
+   "campaign": "c1",
+   "channel": "app",
+   "viewer": "u1"
+  },
+  {
+   "event": "i3",
+   "day": "2026-10-02",
+   "campaign": "c1",
+   "channel": "web",
+   "viewer": "u1"
+  },
+  {
+   "event": "i4",
+   "day": "2026-10-02",
+   "campaign": "c1",
+   "channel": "app",
+   "viewer": "u2"
+  },
+  {
+   "event": "i5",
+   "day": "2026-10-03",
+   "campaign": "c1",
+   "channel": "web",
+   "viewer": "u1"
+  },
+  {
+   "event": "i6",
+   "day": "2026-10-05",
+   "campaign": "c2",
+   "channel": "web",
+   "viewer": "u1"
+  },
+  {
+   "event": "i7",
+   "day": "2026-10-05",
+   "campaign": "c2",
+   "channel": "app",
+   "viewer": "u3"
+  },
+  {
+   "event": "i8",
+   "day": "2026-10-06",
+   "campaign": "c2",
+   "channel": "web",
+   "viewer": "u2"
+  },
+  {
+   "event": "i9",
+   "day": "2026-10-06",
+   "campaign": "c2",
+   "channel": "app",
+   "viewer": "u4"
+  }
+ ],
+ "clicks": [
+  {
+   "event": "k1",
+   "day": "2026-10-01",
+   "campaign": "c1",
+   "viewer": "u1"
+  },
+  {
+   "event": "k2",
+   "day": "2026-10-01",
+   "campaign": "c1",
+   "viewer": "u2"
+  },
+  {
+   "event": "k3",
+   "day": "2026-10-02",
+   "campaign": "c1",
+   "viewer": "u1"
+  },
+  {
+   "event": "k4",
+   "day": "2026-10-05",
+   "campaign": "c2",
+   "viewer": "u3"
+  },
+  {
+   "event": "k5",
+   "day": "2026-10-05",
+   "campaign": "c2",
+   "viewer": "u2"
+  }
+ ],
+ "budgets": [
+  {
+   "budget_key": "b1",
+   "day": "2026-10-01",
+   "campaign": "c1",
+   "amount": "10.10"
+  },
+  {
+   "budget_key": "b2",
+   "day": "2026-10-02",
+   "campaign": "c1",
+   "amount": "0.20"
+  },
+  {
+   "budget_key": "b3",
+   "day": "2026-10-05",
+   "campaign": "c2",
+   "amount": "3.00"
+  },
+  {
+   "budget_key": "b4",
+   "day": "2026-10-06",
+   "campaign": "c2",
+   "amount": "4.37"
+  }
+ ]
 }
